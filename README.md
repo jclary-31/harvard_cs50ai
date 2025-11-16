@@ -1,5 +1,5 @@
 # harvard_cs50ai
-Concepts and algorithms at the foundation of modern artificial intelligence for problems made by Harvard. Problem are described here https://cs50.harvard.edu/ai/
+Concepts and algorithms at the foundation of modern artificial intelligence for problems made by Harvard. Problems are described here https://cs50.harvard.edu/ai/
 
 > Please <strong>DO NOT</strong> use the source code directly, they are provided strictly for reference and knowledge sharing. Plagiarism is strictly prohibited by both the Harvard University and the edX platform. Please see CS50AI's [academic honesty policy](https://cs50.harvard.edu/ai/2024/honesty/) and [license](https://cs50.harvard.edu/ai/2024/license/) for additional details. It would be my pleasure to help anyone or to discuss new projects ideas.
 
@@ -21,7 +21,7 @@ Artificial Intelligence (AI) covers a range of algorithms mimicking human behavi
 2. **[Uncertainty](https://cs50.harvard.edu/ai/weeks/2/)**: Use probability to predict behaviour with baye's rule and joint probability
 3. **[Optimization](https://cs50.harvard.edu/ai/weeks/3/)**: Solve a problem better by dealing with constraints
 4. **[Learning](https://cs50.harvard.edu/ai/weeks/4/)**: classic machine learning algorithms
-5. **[Neural Networks](https://cs50.harvard.edu/ai/weeks/5/)**: This is an explanation of deep learning, which mimick humain brain
+5. **[Neural Networks](https://cs50.harvard.edu/ai/weeks/5/)**: Introduction to deep learning, which mimick humain brain
 6. **[Language](https://cs50.harvard.edu/ai/weeks/6/)**: Processing natural (i.e. human) language, with an explanation of attention mechanism
 
 
